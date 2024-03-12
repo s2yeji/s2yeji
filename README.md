@@ -53,12 +53,12 @@ https://simpleicons.org/
 아직 배우고 있는 것,
 혹은 배우고 싶은 것
 -->
+![githubpages](https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-222222.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-222222.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-222222.svg?&style=for-the-badge&logo=storybook&logoColor=white)
-![figma](https://img.shields.io/badge/figma-222222.svg?&style=for-the-badge&logo=figma&logoColor=white) 
-![githubpages](https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-222222.svg?&style=for-the-badge&logo=vercel&logoColor=white) 
+![figma](https://img.shields.io/badge/figma-222222.svg?&style=for-the-badge&logo=figma&logoColor=white) 
 
 <!-- #### 📂 포트폴리오
 |프로젝트명|맡은 역할|GitHub 주소|스크린샷|
