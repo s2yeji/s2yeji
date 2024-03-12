@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **s2yeji/s2yeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,38 +14,65 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ______입니다!
+![커버](https://capsule-render.vercel.app/api?type=wave&height=300&color=0:007AFF,100:80BDFF&text="Hello!%20Yeji%20world.♡"&fontSize=50&fontColor=ffffff&fontAlignY=35&fontAlign=34)
+<!-- 짧은 인사말 혹은 소개 -->
+###### Hello! My name is Yeji :)
+<!-- 
+안녕하세요 프론트엔드 개발자 설예지입니다.
+- 개발자이자 디자인과 기획에도 관심이 많습니다.
+- 유아이유엑스 개선을 통한 사용자 겅혐의 만족도 높이는 것이 목표입니다.
+- 디자인 시스템과 티디디 등을 통해 효율적이고 안정적인 개발을 지향합니다.
+-->
 
 <!-- Body -->
-
-### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
-<!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
-![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)<br>
+<!-- badge -->
+<!-- 
+https://simpleicons.org/ 
+![로고명](https://img.shields.io/badge/로고명-222222.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름)
+-->
+<!-- ![git](https://img.shields.io/badge/git-222222.svg?&style=for-the-badge&logo=git&logoColor=F05032)
+![github](https://img.shields.io/badge/github-222222.svg?&style=for-the-badge&logo=github&logoColor=ffffff)
+![notion](https://img.shields.io/badge/notion-222222.svg?&style=for-the-badge&logo=notion&logoColor=로고색상이름)
+![html5](https://img.shields.io/badge/html5-222222.svg?&style=for-the-badge&logo=html5&logoColor=e34f26)
+![css3](https://img.shields.io/badge/css3-222222.svg?&style=for-the-badge&logo=css3&logoColor=1572B6)
+![javascript](https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![jquery](https://img.shields.io/badge/jquery-222222.svg?&style=for-the-badge&logo=jquery&logoColor=0769AD)
+![adobephotoshop](https://img.shields.io/badge/photoshop-222222.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=로고색상이름) -->
+#### 🦾 Skills
+#### 능숙한 것
+<!-- 
+과정 상에서 배운 것, 포트폴리오에 포함된 것
+-->
+![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-**🛠️ Infra and Tools**
-
-![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)<br>
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
-![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
-![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+![nextdotjs](https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
+#### 💙 관심있는 것
+<!-- 
+개념질문이나 어려운 질문이 들어오면 대답하기 어려운 거나,
+아직 배우고 있는 것,
+혹은 배우고 싶은 것
+-->
+![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
+![storybook](https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) 
+![githubpages](https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white)
+![vercel](https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) 
+
+#### 📂 포트폴리오
+|프로젝트명|맡은 역할|GitHub 주소|스크린샷|
+|-|-|-|-|
+|제일 잘한 거(파이널 프로젝트 정도)|프론트엔드|gitHub 주소|스크린샷| 
+|새로운 기술 반영된 거|프론트엔드|gitHub 주소|스크린샷|
+|무난한 사이드 프로젝트<br>(여행, 맛집, 쇼핑몰, 블로그, ...)|프론트엔드|gitHub 주소|스크린샷|
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs2yeji&count_bg=%23222222&title_bg=%23007AFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
