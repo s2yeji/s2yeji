@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-![커버](https://capsule-render.vercel.app/api?type=wave&height=300&color=0:007AFF,100:80BDFF&text="Hello!%20Yeji%20world.♡"&fontSize=50&fontColor=ffffff&fontAlignY=35&fontAlign=34)
 <!-- 짧은 인사말 혹은 소개 -->
 ###### Hello! My name is Yeji :)
 <!-- 
