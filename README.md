@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-<<<<<<< HEAD
-
 <!-- 짧은 인사말 혹은 소개 -->
 ###### Hello! My name is Yeji :)
 <!-- 
@@ -24,16 +22,6 @@ Here are some ideas to get you started:
 - 유아이유엑스 개선을 통한 사용자 겅혐의 만족도 높이는 것이 목표입니다.
 - 디자인 시스템과 티디디 등을 통해 효율적이고 안정적인 개발을 지향합니다.
 -->
-=======
-<!-- 짧은 인사말 혹은 소개 -->
-###### Hello! My name is Yeji :)
-<!-- 
-안녕하세요 프론트엔드 개발자 설예지입니다.
-- 개발자이자 디자인과 기획에도 관심이 많습니다.
-- 유아이유엑스 개선을 통한 사용자 겅혐의 만족도 높이는 것이 목표입니다.
-- 디자인 시스템과 티디디 등을 통해 효율적이고 안정적인 개발을 지향합니다.
--->
->>>>>>> 9e89a4031e5b4473c15dfb2f75174f73dfa3e16e
 
 <!-- Body -->
 <!-- badge -->
@@ -79,16 +67,9 @@ https://simpleicons.org/
 ![githubpages](https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) 
 
-#### 📂 포트폴리오
+<!-- #### 📂 포트폴리오
 |프로젝트명|맡은 역할|GitHub 주소|스크린샷|
 |-|-|-|-|
 |제일 잘한 거(파이널 프로젝트 정도)|프론트엔드|gitHub 주소|스크린샷| 
 |새로운 기술 반영된 거|프론트엔드|gitHub 주소|스크린샷|
-|무난한 사이드 프로젝트<br>(여행, 맛집, 쇼핑몰, 블로그, ...)|프론트엔드|gitHub 주소|스크린샷|
-
-<<<<<<< HEAD
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs2yeji&count_bg=%23222222&title_bg=%23007AFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-=======
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs2yeji&count_bg=%23222222&title_bg=%23007AFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-
->>>>>>> 9e89a4031e5b4473c15dfb2f75174f73dfa3e16e
+|무난한 사이드 프로젝트<br>(여행, 맛집, 쇼핑몰, 블로그, ...)|프론트엔드|gitHub 주소|스크린샷| -->
