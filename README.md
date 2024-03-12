@@ -24,48 +24,44 @@ Here are some ideas to get you started:
 -->
 
 <!-- Body -->
+
+#### 🦾 Skills
 <!-- badge -->
 <!-- 
 https://simpleicons.org/ 
 ![로고명](https://img.shields.io/badge/로고명-222222.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름)
 -->
-<!-- ![git](https://img.shields.io/badge/git-222222.svg?&style=for-the-badge&logo=git&logoColor=F05032)
+![git](https://img.shields.io/badge/git-222222.svg?&style=for-the-badge&logo=git&logoColor=F05032)
 ![github](https://img.shields.io/badge/github-222222.svg?&style=for-the-badge&logo=github&logoColor=ffffff)
-![notion](https://img.shields.io/badge/notion-222222.svg?&style=for-the-badge&logo=notion&logoColor=로고색상이름)
 ![html5](https://img.shields.io/badge/html5-222222.svg?&style=for-the-badge&logo=html5&logoColor=e34f26)
 ![css3](https://img.shields.io/badge/css3-222222.svg?&style=for-the-badge&logo=css3&logoColor=1572B6)
 ![javascript](https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![react](https://img.shields.io/badge/react-222222.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-222222.svg?&style=for-the-badge&logo=jquery&logoColor=0769AD)
-![adobephotoshop](https://img.shields.io/badge/photoshop-222222.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=로고색상이름) -->
-#### 🦾 Skills
-#### 능숙한 것
+![adobephotoshop](https://img.shields.io/badge/photoshop-222222.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=로고색상이름)
+![notion](https://img.shields.io/badge/notion-222222.svg?&style=for-the-badge&logo=notion&logoColor=로고색상이름)
+![slack](https://img.shields.io/badge/slack-222222.svg?&style=for-the-badge&logo=slack&logoColor=white) 
+
+<!-- #### 능숙한 것 -->
 <!-- 
 과정 상에서 배운 것, 포트폴리오에 포함된 것
 -->
-![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-![nextdotjs](https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+<!-- ![nextdotjs](https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
-#### 💙 관심있는 것
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) -->
+
+<!-- #### 💙 관심있는 것 -->
 <!-- 
 개념질문이나 어려운 질문이 들어오면 대답하기 어려운 거나,
 아직 배우고 있는 것,
 혹은 배우고 싶은 것
 -->
-![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+<!-- ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) 
 ![githubpages](https://img.shields.io/badge/githubpages-222222.svg?&style=for-the-badge&logo=githubpages&logoColor=white)
-![vercel](https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) 
+![vercel](https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)  -->
 
 <!-- #### 📂 포트폴리오
 |프로젝트명|맡은 역할|GitHub 주소|스크린샷|
