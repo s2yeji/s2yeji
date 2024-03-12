@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 https://simpleicons.org/ 
 ![로고명](https://img.shields.io/badge/로고명-222222.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름)
 -->
-![git](https://img.shields.io/badge/git-222222.svg?&style=for-the-badge&logo=git&logoColor=F05032)
+![git](https://img.shields.io/badge/git-222222.svg?&style=for-the-badge&logo=git&logoColor=ffffff)
 ![github](https://img.shields.io/badge/github-222222.svg?&style=for-the-badge&logo=github&logoColor=ffffff)
-![html5](https://img.shields.io/badge/html5-222222.svg?&style=for-the-badge&logo=html5&logoColor=e34f26)
-![css3](https://img.shields.io/badge/css3-222222.svg?&style=for-the-badge&logo=css3&logoColor=1572B6)
-![javascript](https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![html5](https://img.shields.io/badge/html5-222222.svg?&style=for-the-badge&logo=html5&logoColor=ffffff)
+![css3](https://img.shields.io/badge/css3-222222.svg?&style=for-the-badge&logo=css3&logoColor=ffffff)
+![javascript](https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![react](https://img.shields.io/badge/react-222222.svg?&style=for-the-badge&logo=react&logoColor=white)
-![jquery](https://img.shields.io/badge/jquery-222222.svg?&style=for-the-badge&logo=jquery&logoColor=0769AD)
-![adobephotoshop](https://img.shields.io/badge/photoshop-222222.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=로고색상이름)
-![notion](https://img.shields.io/badge/notion-222222.svg?&style=for-the-badge&logo=notion&logoColor=로고색상이름)
+![jquery](https://img.shields.io/badge/jquery-222222.svg?&style=for-the-badge&logo=jquery&logoColor=ffffff)
+![adobephotoshop](https://img.shields.io/badge/photoshop-222222.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=ffffff)
+![notion](https://img.shields.io/badge/notion-222222.svg?&style=for-the-badge&logo=notion&logoColor=ffffff)
 ![slack](https://img.shields.io/badge/slack-222222.svg?&style=for-the-badge&logo=slack&logoColor=white) 
 
 <!-- #### 능숙한 것 -->
