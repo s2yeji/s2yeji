@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <!-- 짧은 인사말 혹은 소개 -->
-###### `#안녕하세요` `#프론트엔드` `#개발자` `#설예지입니다` `#♡`
+###### `#안녕하세요` `#프론트엔드` `#개발자` `#설예지입니다` `#♥`
 <!-- 
 안녕하세요 프론트엔드 개발자 설예지입니다.
 - 개발자이자 디자인과 기획에도 관심이 많습니다.
@@ -47,7 +47,7 @@ https://simpleicons.org/
 ![notion](https://img.shields.io/badge/notion-222222.svg?&style=for-the-badge&logo=notion&logoColor=ffffff)
 ![slack](https://img.shields.io/badge/slack-222222.svg?&style=for-the-badge&logo=slack&logoColor=white) 
 
-#### 💛지금은 이런 것에 관심이 있어요.🐣💛
+#### 🐣 지금은 이런 것에 관심이 있어요.
 <!-- 
 개념질문이나 어려운 질문이 들어오면 대답하기 어려운 거나,
 아직 배우고 있는 것,
