@@ -66,3 +66,5 @@ https://simpleicons.org/
 |제일 잘한 거(파이널 프로젝트 정도)|프론트엔드|gitHub 주소|스크린샷| 
 |새로운 기술 반영된 거|프론트엔드|gitHub 주소|스크린샷|
 |무난한 사이드 프로젝트<br>(여행, 맛집, 쇼핑몰, 블로그, ...)|프론트엔드|gitHub 주소|스크린샷| -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs2yeji&count_bg=%23333333&title_bg=%232997FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
