@@ -41,6 +41,7 @@ https://simpleicons.org/
 ![html5](https://img.shields.io/badge/html5-222222.svg?&style=for-the-badge&logo=html5&logoColor=ffffff)
 ![css3](https://img.shields.io/badge/css3-222222.svg?&style=for-the-badge&logo=css3&logoColor=ffffff)
 ![javascript](https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=ffffff)
+![node.js](https://img.shields.io/badge/nodedotjs-222222.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![react](https://img.shields.io/badge/react-222222.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-222222.svg?&style=for-the-badge&logo=jquery&logoColor=ffffff)
 ![adobephotoshop](https://img.shields.io/badge/photoshop-222222.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=ffffff)
