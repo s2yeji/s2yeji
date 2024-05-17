@@ -34,8 +34,7 @@ https://simpleicons.org/
 과정 상에서 배운 것, 포트폴리오에 포함된 것
 -->
 <!-- ![nextdotjs](https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) -->
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white) -->
 ![git](https://img.shields.io/badge/git-222222.svg?&style=for-the-badge&logo=git&logoColor=ffffff)
 ![github](https://img.shields.io/badge/github-222222.svg?&style=for-the-badge&logo=github&logoColor=ffffff)
 ![html5](https://img.shields.io/badge/html5-222222.svg?&style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -43,6 +42,7 @@ https://simpleicons.org/
 ![javascript](https://img.shields.io/badge/javascript-222222.svg?&style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![node.js](https://img.shields.io/badge/nodedotjs-222222.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![react](https://img.shields.io/badge/react-222222.svg?&style=for-the-badge&logo=react&logoColor=white)
+![redux](https://img.shields.io/badge/redux-222222.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![express](https://img.shields.io/badge/express-222222.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-222222.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-222222.svg?&style=for-the-badge&logo=jquery&logoColor=ffffff)
