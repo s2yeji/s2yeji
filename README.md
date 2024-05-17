@@ -44,6 +44,7 @@ https://simpleicons.org/
 ![node.js](https://img.shields.io/badge/nodedotjs-222222.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![react](https://img.shields.io/badge/react-222222.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![express](https://img.shields.io/badge/express-222222.svg?&style=for-the-badge&logo=express&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-222222.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-222222.svg?&style=for-the-badge&logo=jquery&logoColor=ffffff)
 ![adobephotoshop](https://img.shields.io/badge/photoshop-222222.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=ffffff)
 ![notion](https://img.shields.io/badge/notion-222222.svg?&style=for-the-badge&logo=notion&logoColor=ffffff)
